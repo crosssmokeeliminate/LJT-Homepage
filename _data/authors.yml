@@ -1,18 +1,14 @@
 # Authors
+#
+# This file maps a short key to author metadata. It is only consulted by pages
+# whose front matter sets "author: <key>"; every other page falls back to the
+# site-wide settings under `author:` in _config.yml. Add an entry here if you
+# want to credit a co-author on an individual publication or post.
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Junteng Liu:
+  name        : "Junteng Liu"
+  email       : "jliugi@connect.ust.hk"
+  bio         : "First-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He."
+  avatar      : "profile.png"
+  github      : "Vicent0205"
+  twitter     : "junteng88716710"
