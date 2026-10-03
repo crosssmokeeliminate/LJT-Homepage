@@ -22,7 +22,9 @@ I am a first-year Ph.D. candidate in Computer Science at the Hong Kong Universit
 
 * Research Intern, MINIMAX, February 2025 – present
 * Research Intern, Tencent WXG, June 2024 – September 2024
+  * Advisor: Zifei Shan
 * Research Intern, Shanghai AI Lab, June 2023 – December 2023
+  * Advisor: Prof. Yu Cheng
 
 ## Research interests
 
@@ -31,6 +33,10 @@ I am a first-year Ph.D. candidate in Computer Science at the Hong Kong Universit
 * LLM reasoning and reinforcement learning
 * Hallucination in vision-language models (VLM)
 * LLM truthfulness and interpretability
+
+## Honors and awards
+
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 ## Publications
 
